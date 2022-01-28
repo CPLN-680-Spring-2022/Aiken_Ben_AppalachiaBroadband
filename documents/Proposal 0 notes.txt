@@ -1,0 +1,29 @@
+Question:
+I think this is shaping up well. I imagine two possible ways forward:
+
+- Choose 3 or so routes between major cities, and do a deep dive of the towns between between them. See if there are any patterns, or if you develop intution for a broader analysis.
+- Try to do a large-scale regression analysis or something where you use distance to a major route as an explanatory variable.
+
+As I see it, there are two fascinating questions here:
+- Can you really show that being on a major route *between two cities* brings special traits besides being another rural town that's on a highway but not a "middle town".
+- Can you establish that the traits of the endpoint cities have an impact on the middle towns, despite they're being maybe pretty far away. (For example, you could find that a town that's 120 miles from a city does better when there's also a city 120 miles in the other direction).
+
+Another interesting question is how will you validate your definition? It will clearly be somewht arbitrary, how do you argue it's a good one? The typical strategies are:
+- Test many definitions and see which is more explanatory for some outcome.
+- Use continuous variables, and identify typologies from the data itself.
+- Pick a primary, intuitive definition. Then test the "robustness" by redoing the analysis with another slightly different definition.
+
+Data:
+There are tons of resources on businesses, too. Maybe consider a business census or InfoUSA (I'm not sure if Penn has purchased this).
+
+
+Other notes:
+
+
+
+Important next step(s):
+I think diving into the data and starting to define and explore these towns will give you a good sense of what kind of questions you might want to ask about them. Looking forward to it!
+
+
+
+Grade: 10/10
