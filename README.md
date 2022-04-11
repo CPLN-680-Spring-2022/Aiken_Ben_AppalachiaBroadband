@@ -1,6 +1,6 @@
 # Aiken_Ben_WaypointCities
 
-This project investigates internet accessibility in Appalachia and the associated demographic, economic, and education trends.  If the region's economic revival is through a tech transformation called the 'Silicon Holler' as proposed by some leaders, internet accessibility, and specifically broadband, must increase.  Ultimately, this project attempts to answer the following question:  <br>
+This project investigates internet accessibility in Appalachia and the associated demographic, economic, and education trends.  If the region's economic revival is through a tech transformation called the 'Silicon Holler' as proposed by some leaders, internet accessibility, and specifically broadband accessibility, must increase.  Ultimately, this project attempts to answer the following question:  <br>
 How should the broadband resources of the Infrastructure Investment and Jobs Act be distributed in Appalachia to spur the greatest economic impact?  <br>
 
 ## Notebooks
