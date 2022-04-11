@@ -1,1 +1,0 @@
-Data will go in this folder.  Since I'm pulling census data through an API and I'm not 100% certain which cities I'll focus on, these files are placeholders.
